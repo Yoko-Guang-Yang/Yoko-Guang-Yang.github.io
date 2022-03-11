@@ -12,3 +12,4 @@ setting.
 Yoko has particular facility with Java, Javafx and C++ in implementing algorithms and in front end design.Born in Shanghai, Yoko is a native speaker of Mandarin and Shanghainese. He is also highly proficient in Japanese. 
 Before coming to WPI, he studied and worked in Japan for four years, where he not only built up Japanese proficiency, but also gained knowledge and experience in psychology, management and social welfare. Yoko’s multicultural and cross-disciplinary background provides insight and informs him as he designs user-friendly software.
 Yoko is available for full-time internships from 5/4/2022-7/24/2022.
+ 
