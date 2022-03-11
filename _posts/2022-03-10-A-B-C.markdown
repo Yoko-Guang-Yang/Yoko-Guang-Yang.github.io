@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "A B C"
+date:   2022-03-10 21:13:00 -0500
+categories: Project
+image1: /assets/nmb.png
+---
+## CS3733 project
+![Image caption]({{ page.image1 }})
+```
+    //code
+
+```
+
