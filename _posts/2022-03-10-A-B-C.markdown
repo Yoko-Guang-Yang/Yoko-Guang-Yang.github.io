@@ -1,14 +1,64 @@
 ---
 layout: post
-title:  "A B C"
+title:  "CS3733-Software-Engineering"
 date:   2022-03-10 21:13:00 -0500
 categories: Project
-image1: /assets/nmb.png
+image1: /assets/CS3733/1.jpg
+image2: /assets/CS3733/2.jpg
+image3: /assets/CS3733/3.jpg
+image4: /assets/CS3733/4.jpg
+image5: /assets/CS3733/5.jpg
+image6: /assets/CS3733/6.jpg
+image7: /assets/CS3733/7.jpg
 ---
-## CS3733 project
-![Image caption]({{ page.image1 }})
-```
-    //code
+# CS3733 project
 
-```
+## Course Description and Objectives
+    Understanding, developing, and communicating requirements
+    Designing object-oriented models from requirements
+    Decomposing designs into components
+    Implementing and testing components
+    Building software from components
+    Designing software to support extensions, evolution, and reuse
 
+## Project Goal: 
+    Make an application with wayfinding and service request functionality for a hospital.
+
+## My role: 
+    Documentation analyst and Part-time software engineer
+
+#Main work: 
+    Design application pages, draw Class Diagram, and create database.
+
+## Page Design: 
+    Use Javafx to design pages such as homepage, service request, database, etc. The user can use the corresponding button to jump to the corresponding page.
+
+![A screenshot of the fxml file list in IntelliJ]({{ page.image1 }})
+
+## Application Home Page
+
+![A screenshot of the application home page]({{ page.image2 }})
+
+## Application Service Request Home Page
+
+![A screenshot of the application service request home page]({{ page.image3 }})
+
+## Service Request Page
+    In the service request page, the input is saved in the database.
+
+![A screenshot of the service request page]({{ page.image4 }})
+
+## Databases List
+    Different Databases are made for each situation
+
+![A screenshot of the databases List in IntelliJ]({{ page.image5 }})
+
+## Navigation Page
+    The Navigation feature has a textual Directions system. The user can find the route by clicking on the point on the map or inputting the place name and can find the route between different floors.
+
+![A screenshot of the user navigation Page]({{ page.image6 }})
+
+## Setting waypoints
+    Nodes that can add or remove maps from the application.
+
+![A screenshot of the setting waypoints page]({{ page.image7 }})
